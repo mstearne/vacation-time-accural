@@ -16,5 +16,5 @@ $config['orgdomainname']="YOUR_DOMAIN_NAME";
 $config['orgname']="YOUR_COMPANY_NAME";
 $config['adminemail']="ADMIN_EMAIL_ADDRESS";
 $config['hremail']="HR_CONTACT_EMAIL_ADDRESS";
-
+ 
 ?>
