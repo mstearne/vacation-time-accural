@@ -1,4 +1,6 @@
 <?
+/// General configuration file. Edit the values below.
+
 
 /// This could be done better
 $config['user'] = 'YOUR_GOOGLE_DOCS_LOGIN';
@@ -16,5 +18,6 @@ $config['orgdomainname']="YOUR_DOMAIN_NAME";
 $config['orgname']="YOUR_COMPANY_NAME";
 $config['adminemail']="ADMIN_EMAIL_ADDRESS";
 $config['hremail']="HR_CONTACT_EMAIL_ADDRESS";
+
  
 ?>
